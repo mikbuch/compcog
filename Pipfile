@@ -4,9 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-jupyter = "*"
 numpy = "*"
 matplotlib = "*"
+jupyterlab = "*"
+requests = "*"
+scipy = "*"
 
 [dev-packages]
 
