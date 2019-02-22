@@ -9,6 +9,7 @@ matplotlib = "*"
 jupyterlab = "*"
 requests = "*"
 scipy = "*"
+ipympl = "*"
 
 [dev-packages]
 
